@@ -1,1 +1,1 @@
-# RecommenderSystem-CollaborativeFiltering
+# Recommender System - Collaborative Filtering
