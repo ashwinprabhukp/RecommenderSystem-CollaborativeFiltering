@@ -38,9 +38,10 @@ When you are on the home tab, you will see the top 50 books that are trending cu
 
 When you navigate to the recommend tab you will see a input and a button.
 
-![recommend](https://user-images.githubusercontent.com/35398605/210285472-6f7c62b8-ff62-4ee8-8d3c-6a0e253de504.JPG)
+![recommend](https://user-images.githubusercontent.com/35398605/210285582-5b051920-a4b1-42ec-a77d-9f66f077a505.JPG)
+
 
 Insert a book name into it and submit and it will recommend 8 similar books that might intrest you.
 
-![recommended books](https://user-images.githubusercontent.com/35398605/210285474-848af0c7-e3b5-4d90-8b51-97c4a5c6512f.JPG)
+![recommended books](https://user-images.githubusercontent.com/35398605/210285588-232e9578-b71f-4b71-af20-6632250bdd26.JPG)
 
