@@ -20,7 +20,11 @@ The project's objective is to assist users in developing the habit of reading bo
 
 ### Tech used in this project
 
-https://img.shields.io/badge/Python-blue https://img.shields.io/badge/Jupyter_notebook-blue https://img.shields.io/badge/Flask-blue https://img.shields.io/badge/HTML-blue https://img.shields.io/badge/CSS-blue
+![Github Actions Status]https://img.shields.io/badge/Python-blue 
+![Github Actions Status]https://img.shields.io/badge/Jupyter_notebook-blue 
+![Github Actions Status]https://img.shields.io/badge/Flask-blue 
+![Github Actions Status]https://img.shields.io/badge/HTML-blue 
+![Github Actions Status]https://img.shields.io/badge/CSS-blue
 
 ---
 
