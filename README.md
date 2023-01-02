@@ -11,19 +11,24 @@ There are different types of Recommender systems. The ones we have used in this 
 
 2. <b>Collaborative Filtering</b>: It is regarded as one of the very clever recommender systems that utilizes user similarity as well as things that are frequently used on e-commerce and online movie websites. It makes recommendations by examining the preferences of comparable users.
 
+---
+
 ### The goal of the project
 
 The project's objective is to assist users in developing the habit of reading books and to assist users in selecting their next book to read based on their most recent read.
 
 
 ### Tech used in this project
-Python, Jupyter notebook, Flask, HTML, CSS
 
+https://img.shields.io/badge/Python-blue https://img.shields.io/badge/Jupyter_notebook-blue https://img.shields.io/badge/Flask-blue https://img.shields.io/badge/HTML-blue https://img.shields.io/badge/CSS-blue
+
+---
 
 ### Data
 
 For this project we got the data from Kaggle: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
+---
 
 ### Workflow of the app
 
