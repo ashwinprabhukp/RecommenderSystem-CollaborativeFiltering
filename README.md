@@ -17,6 +17,7 @@ There are different types of Recommender systems. The ones we have used in this 
 
 The project's objective is to assist users in developing the habit of reading books and to assist users in selecting their next book to read based on their most recent read.
 
+---
 
 ### Tech used in this project
 
