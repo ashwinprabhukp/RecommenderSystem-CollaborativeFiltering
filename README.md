@@ -43,7 +43,7 @@ There are 2 features of the app
 
 When you are on the home tab, you will see the top 50 books that are trending curently
 
-![Uploading popular recommender system (2).gif…]()
+![popular recommender system (2)](https://user-images.githubusercontent.com/35398605/210287376-6d1b86e9-febf-4615-ba64-7ab558f45a69.gif)
 
 
 When you navigate to the recommend tab you will see a input and a button. Insert a book name into it and submit and it will recommend 8 similar books that might intrest you.
