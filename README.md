@@ -1,4 +1,4 @@
-# Recommender System - Popularity-Based & Collaborative Filtering
+# The Book Matchmaker: A Fusion of Popularity and Collaborative filter based Recommender System
 
 dataset is available at : https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?resource=download
 
